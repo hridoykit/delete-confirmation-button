@@ -1,6 +1,6 @@
 # Footnote Of "Delete Confirmation Button" Like Github
 
-This project demonstrates how to create a delete confirmation button in JavaScript. The button is initially disabled and only becomes enabled when the user types 'delete' in the input field. Upon clicking the button, a confirmation dialog appears.
+While learning JS DOM, i discovered that by applying an event listener like "keyup" a disabled button can be enabled, and by clicking the this button, any HTML element can be deleted. This minor scheme demonstrates how to create a delete confirmation button in JavaScript. The button is initially disabled and only becomes enabled when the user types 'delete' in the input field. Upon clicking the button, a confirmation dialog appears.
 
 ## JavaScript Features
 
